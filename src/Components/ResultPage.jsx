@@ -8,7 +8,7 @@ const ResultPage = () => {
 
   return (
     <Container>
-      <Typography variant="h4" gutterBottom>
+      <Typography variant="h4" gutterBottom style={{fontWeight:"bold"}}>
         Submitted Form Data
       </Typography>
       <Grid container spacing={2}>
